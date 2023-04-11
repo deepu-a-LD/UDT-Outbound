@@ -1,0 +1,263 @@
+{
+	"root": {
+		"X_UDT_name": "testINCRTest14",
+		"X_UDT_partyID": "125",
+		"X_UDT_customerType": {
+			"Code": "CUS",
+			"Name": "Customer"
+		},
+		"X_UDT_parmaID": "4567",
+		"X_UDT_Address": [
+			{
+				"_id": "125",
+				"defaultIndicator": true,
+				"addressType": {
+					"Code": "Main",
+					"Name": "Main"
+				},
+				"usageType": {
+					"Code": "Home",
+					"Name": "Home"
+				},
+				"addressStatus": {
+					"Code": "Active",
+					"Name": "Active"
+				},
+				"addressLine1": "ABC123##$$@1",
+				"city": "Vizag",
+				"county": "",
+				"country": {
+					"Code": "IN",
+					"Name": "India"
+				},
+				"state": {
+					"Code": "AP",
+					"Name": "Andhra Pradesh"
+				},
+				"postalCode": "530011",
+				"postalCodeExtension": "91",
+				"coordinateSystem": "12",
+				"locationCoordinateDesc": "DE",
+				"latitude": "0.00",
+				"longitude": "0",
+				"effectiveStartDate": 1603132200000,
+				"effectiveEndDate": 1668602168000,
+				"enrichedIndicator": {
+					"Code": "VALID",
+					"Name": "Valid"
+				},
+				"addressLine2": "^^$Lance Street1",
+				"addressLine3": ""
+			},
+			{
+				"_id": "125",
+				"addressType": {
+					"Code": "Visit",
+					"Name": "Visit"
+				},
+				"usageType": {
+					"Code": "Business",
+					"Name": "Business"
+				},
+				"addressStatus": {
+					"Code": "Active",
+					"Name": "Active"
+				},
+				"addressLine1": "ABC123",
+				"addressLine2": "qwe",
+				"addressLine3": "cfdfds",
+				"city": "Vizag",
+				"postalCode": "530011",
+				"country": {
+					"Code": "AR",
+					"Name": "Argentina"
+				},
+				"county": "Vizag",
+				"postalCodeExtension": "91",
+				"locationCoordinateDesc": "DE",
+				"latitude": "45",
+				"longitude": "12",
+				"effectiveStartDate": 1669271400000,
+				"effectiveEndDate": 1669273200000,
+				"enrichedIndicator": {
+					"Code": "VALID",
+					"Name": "Valid"
+				}
+			}
+		],
+		"X_UDT_Identifier": [
+			{
+				"_id": "125",
+				"X_UDT_identifierType": {
+					"Code": "COC",
+					"Name": "Chamber Of Commerce"
+				},
+				"X_UDT_effectiveStartDate": 1667824900000,
+				"X_UDT_effectiveEndDate": 1668602504000,
+				"X_UDT_identifierValue": "not found",
+				"X_UDT_status": {
+					"Code": "ACTIVE",
+					"Name": "Active"
+				}
+			},
+			{
+				"_id": "125",
+				"X_UDT_identifierType": {
+					"Code": "ON",
+					"Name": "Organization Number"
+				},
+				"X_UDT_identifierValue": "Null",
+				"X_UDT_status": {
+					"Code": "ACTIVE",
+					"Name": "Active"
+				}
+			},
+			{
+				"_id": "125",
+				"X_UDT_identifierType": {
+					"Code": "VAT",
+					"Name": "VAT Number"
+				},
+				"X_UDT_identifierValue": "null",
+				"X_UDT_status": {
+					"Code": "ACTIVE",
+					"Name": "Active"
+				}
+			}
+		],
+		"X_UDT_PhoneCommunication": [
+			{
+				"_id": "125",
+				"X_UDT_Phone": [
+					{
+						"_id": "125",
+						"country": {
+							"Code": "IN",
+							"Name": "India"
+						},
+						"phoneType": {
+							"Code": "Telephone",
+							"Name": "Telephone"
+						},
+						"phoneUsageType": {
+							"Code": "Business",
+							"Name": "Business"
+						},
+						"phoneNumber": "+919701269964$$",
+						"phoneNumberExtension": "4",
+						"prefixNumber": "45",
+						"internationalPrefix": "5",
+						"nationalPrefix": "434",
+						"cellPrefix": "5",
+						"defaultIndicator": true,
+						"doNotCallIndicator": true,
+						"nationalDestinationCode": "er",
+						"validationStatusCode": "Valid",
+						"validationMessage": "Cr",
+						"effectiveStartDate": 1669271400000,
+						"effectiveEndDate": 1669273200000,
+						"status": {
+							"Code": "Unlisted",
+							"Name": "Publicly unavailable."
+						},
+						"nationalFormat": "4sad",
+						"internationalFormat": "23",
+						"iso": "1"
+					},
+					{
+						"_id": "125",
+						"country": {
+							"Code": "IN",
+							"Name": "India"
+						},
+						"phoneType": {
+							"Code": "Fax",
+							"Name": "Fax"
+						},
+						"phoneUsageType": {
+							"Code": "Customer Service - Group Market",
+							"Name": "Customer Service - Group Market"
+						},
+						"phoneNumber": "+91807471148400$$",
+						"phoneNumberExtension": "11",
+						"prefixNumber": "+91",
+						"internationalPrefix": "1",
+						"nationalPrefix": "44",
+						"cellPrefix": "1",
+						"defaultIndicator": true,
+						"nationalDestinationCode": "ER",
+						"validationStatusCode": "Valid",
+						"validationMessage": "Cr",
+						"effectiveStartDate": 1667824626000,
+						"effectiveEndDate": 1668591000000,
+						"status": {
+							"Code": "Unlisted",
+							"Name": "Publicly unavailable."
+						},
+						"nationalFormat": "4sad",
+						"internationalFormat": "23",
+						"iso": "1",
+						"enrichedIndicator": true
+					}
+				],
+				"X_UDT_ServiceCommunicationType": {
+					"Code": "LEGAL",
+					"Name": "Legal"
+				}
+			}
+		],
+		"X_UDT_AlternateName": [
+			{
+				"_id": "125",
+				"X_UDT_alternateName": "zxczv",
+				"X_UDT_nameType": {
+					"Code": "LEG",
+					"Name": "Legal name"
+				},
+				"X_UDT_effectiveStartDate": 1667824940000,
+				"X_UDT_effectiveEndDate": 1668602542000
+			}
+		],
+		"X_UDT_URL": [
+			{
+				"_id": "125",
+				"X_UDT_uRLType": {
+					"Code": "BUSINESS",
+					"Name": "Business"
+				},
+				"X_UDT_link": "abc@gmail.com"
+			}
+		],
+		"X_UDT_Email": [
+			{
+				"_id": "125",
+				"usageType": {
+					"Code": "Personal",
+					"Name": "Personal"
+				},
+				"electronicAddress": "qwe@gmail.com",
+				"defaultIndicator": true,
+				"electronicAddressStatus": {
+					"Code": "Active",
+					"Name": "Active"
+				},
+				"validationStatusCode": "d",
+				"validationMessage": "we",
+				"netProtectCode": "c",
+				"effectiveStartDate": 1667911282000,
+				"effectiveEndDate": 1668602485000,
+				"enrichedIndicator": true
+			}
+		],
+		"X_UDT_KnownAs": [
+			{
+				"_id": "125",
+				"X_UDT_applicationType": {
+					"Code": "SALES FORCE",
+					"Name": "Sales force"
+				},
+				"X_UDT_applicationID": "csdvs"
+			}
+		]
+	}
+}
